@@ -1,2 +1,4 @@
 selenium
 selenium-wire
+webdriver-manager
+Pillow
